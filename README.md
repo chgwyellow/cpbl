@@ -1,2 +1,2 @@
-# cpbl
-A project to do the CPBL hitter and pitcher analyst.
+# CPBL
+A project to do the CPBL hitter and pitcher analysis.
